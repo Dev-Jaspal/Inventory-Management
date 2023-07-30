@@ -4,7 +4,32 @@ Our system will be designed to manage stock in a warehouse, focus on clothing st
 
 Technologies we have decided to develop our system are MS SQL server to save detail of products and employee information, for structure of the system we are using HTML and Bootstrap framework. For frontend development we are using ReactJS and for backend we are using Dot Net to generate APIs.  
 
-## User Interface Design
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Examples](#examples)
+
+
+## Installation
+
+To install and set up the project, follow these steps:
+
+1. Install Node.js latest version, Visual Studio/ Visual Studio Code and Android Studio
+2. Install Entity framework nuGet package, Automapper nuGet package, and Swashbuckle.AspNetCore.Swagger for back-end
+3. Clone the repository.
+
+
+## Usage
+
+To use the project, follow these steps:
+
+1. In the User `\your\path\Clothes Stocking Managment\clothing-stock-management` folder, open the folder in Visual Studio Code.
+2. Open the terminal in current folder, run `npm start`
+3. In `\your\path\Clothes Stocking Managment\Application\WebAPI\StockInventoryWebApi` folder, open StockInventoryWebApi.sln file in Visual Studio
+4. Press the play icon to run the back-end
+
+## Examples
 
 1. Login Screen: the user login with their employee ID and pin.
 
